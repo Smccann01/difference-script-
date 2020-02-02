@@ -4,7 +4,6 @@ from tkinter.filedialog import askopenfilename
 import os
 os.path.dirname(os.path.abspath(__file__))
 
-
 file1 = askopenfilename()
 file2 = askopenfilename()
      
